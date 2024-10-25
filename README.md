@@ -12,7 +12,6 @@ capacidades quando encaramos tudo com paixão! E estou aprendendo a aplicar o TD
 </br></br>
 
 ### Minhas páginas
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logo=ko-fi&logoColor=white)](https://github.com/cwallz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=github&&logo=linkedin&logoColor=white_button&width1000px&height=100px)](https://br.linkedin.com/in/cwallacepereira?trk=public_post_feed-actor-name)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heywallz)
 </br></br>
